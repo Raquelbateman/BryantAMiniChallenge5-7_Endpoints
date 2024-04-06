@@ -12,7 +12,7 @@ namespace BryantAMiniChallenge5_7_Endpoints.Controllers
     {
         [HttpGet("/madLib")]
         public string madLib(string nounDino, string nounPet, string planetName, string food, string nounCity, string adjective){
-            return $"The hungry {nounDino} and {nounPet} roamed the warm planet of {planetName} in search of fresh {food}. Eventually they were taken down to the paradise cit of {nounCity}, where the weather felt {adjective} and the other animals were pretty.";
+            return $"The hungry {nounDino} and {nounPet} roamed the warm planet of {planetName} in search of fresh {food}. Eventually they were taken down to the paradise city of {nounCity}, where the weather felt {adjective} and the other animals were pretty. The End.";
         }
 
         [HttpGet("/oddOrEven")]

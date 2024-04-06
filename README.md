@@ -19,4 +19,4 @@
      - "You entered 12345, reversed is 54321"
 
 
-// Peer Reviewed by: 
+// Peer Reviewed by: Aaron Perez: The 4 endpoints work as required. 1st end point is mad lib. 2nd takes number input to tell you if its odd or even. endpoint 3 and 4 take uswers input and reverses it. Great Work!!

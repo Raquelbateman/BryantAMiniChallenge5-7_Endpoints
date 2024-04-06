@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Alicia\\Academy\\Level 2\\BryantAMiniChallenge5-7_Endpoints\\BryantAMiniChallenge5-7_Endpoints.csproj",
+      "projectUniqueName": "C:\\Users\\Alicia\\Academy\\Level 2\\BryantAMiniChallenge5_7Endpoints\\BryantAMiniChallenge5-7_Endpoints.csproj",
       "projectName": "BryantAMiniChallenge5-7_Endpoints",
-      "projectPath": "C:\\Users\\Alicia\\Academy\\Level 2\\BryantAMiniChallenge5-7_Endpoints\\BryantAMiniChallenge5-7_Endpoints.csproj",
+      "projectPath": "C:\\Users\\Alicia\\Academy\\Level 2\\BryantAMiniChallenge5_7Endpoints\\BryantAMiniChallenge5-7_Endpoints.csproj",
       "packagesPath": "C:\\Users\\Alicia\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Alicia\\Academy\\Level 2\\BryantAMiniChallenge5-7_Endpoints\\obj\\",
+      "outputPath": "C:\\Users\\Alicia\\Academy\\Level 2\\BryantAMiniChallenge5_7Endpoints\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Alicia\\AppData\\Roaming\\NuGet\\NuGet.Config"
